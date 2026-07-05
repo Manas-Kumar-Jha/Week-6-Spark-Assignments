@@ -22,7 +22,7 @@
 ## Project Structure
 
 ```
-Week_6_Spark_Assignment/
+Week-6-Spark-Assignments/
 │── Week_6_Spark_Assignment.ipynb
 |── Week-6 Spark Assignment.pdf
 │── README.md
